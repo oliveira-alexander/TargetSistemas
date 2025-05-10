@@ -1,0 +1,15 @@
+C:\Users\marzi\OneDrive\Documentos\Development\_Git\TargetSistemas\TargetSistemas\Exercicio02\bin\Debug\net8.0\Exercicio02.exe
+C:\Users\marzi\OneDrive\Documentos\Development\_Git\TargetSistemas\TargetSistemas\Exercicio02\bin\Debug\net8.0\Exercicio02.deps.json
+C:\Users\marzi\OneDrive\Documentos\Development\_Git\TargetSistemas\TargetSistemas\Exercicio02\bin\Debug\net8.0\Exercicio02.runtimeconfig.json
+C:\Users\marzi\OneDrive\Documentos\Development\_Git\TargetSistemas\TargetSistemas\Exercicio02\bin\Debug\net8.0\Exercicio02.dll
+C:\Users\marzi\OneDrive\Documentos\Development\_Git\TargetSistemas\TargetSistemas\Exercicio02\bin\Debug\net8.0\Exercicio02.pdb
+C:\Users\marzi\OneDrive\Documentos\Development\_Git\TargetSistemas\TargetSistemas\Exercicio02\obj\Debug\net8.0\Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marzi\OneDrive\Documentos\Development\_Git\TargetSistemas\TargetSistemas\Exercicio02\obj\Debug\net8.0\Exercicio02.AssemblyInfoInputs.cache
+C:\Users\marzi\OneDrive\Documentos\Development\_Git\TargetSistemas\TargetSistemas\Exercicio02\obj\Debug\net8.0\Exercicio02.AssemblyInfo.cs
+C:\Users\marzi\OneDrive\Documentos\Development\_Git\TargetSistemas\TargetSistemas\Exercicio02\obj\Debug\net8.0\Exercicio02.csproj.CoreCompileInputs.cache
+C:\Users\marzi\OneDrive\Documentos\Development\_Git\TargetSistemas\TargetSistemas\Exercicio02\obj\Debug\net8.0\Exercicio02.sourcelink.json
+C:\Users\marzi\OneDrive\Documentos\Development\_Git\TargetSistemas\TargetSistemas\Exercicio02\obj\Debug\net8.0\Exercicio02.dll
+C:\Users\marzi\OneDrive\Documentos\Development\_Git\TargetSistemas\TargetSistemas\Exercicio02\obj\Debug\net8.0\refint\Exercicio02.dll
+C:\Users\marzi\OneDrive\Documentos\Development\_Git\TargetSistemas\TargetSistemas\Exercicio02\obj\Debug\net8.0\Exercicio02.pdb
+C:\Users\marzi\OneDrive\Documentos\Development\_Git\TargetSistemas\TargetSistemas\Exercicio02\obj\Debug\net8.0\Exercicio02.genruntimeconfig.cache
+C:\Users\marzi\OneDrive\Documentos\Development\_Git\TargetSistemas\TargetSistemas\Exercicio02\obj\Debug\net8.0\ref\Exercicio02.dll
