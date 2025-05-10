@@ -6,4 +6,6 @@ Resolução dos exercícios do teste técnico para a vaga de Desenvolvedor de Si
 </ul>
 
 <p>Informações gerais:</p>
-<ul>Foi criada apenas uma solução contendo cada um dos exercícios separadamente.</ul>
+<ul>
+  <li>Foi criada apenas uma solução contendo cada um dos exercícios separadamente.</li>
+</ul>
