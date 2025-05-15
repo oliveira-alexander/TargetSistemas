@@ -1,4 +1,6 @@
-﻿namespace Exercicio04
+﻿using Exercicio04.Services;
+
+namespace Exercicio04
 {
     internal class Program
     {
@@ -23,18 +25,15 @@
 
             double faturamentoTotal = faturamentoSP + faturamentoRJ + faturamentoMG + faturamentoES + faturamentoOutros;
 
+            CalcularFaturamentoService service = new CalcularFaturamentoService();
+
             Console.WriteLine($"Faturamento total: R${faturamentoTotal.ToString("F2")}");
             Console.WriteLine();
-            Console.WriteLine($"Faturamento SP - R${faturamentoSP.ToString("F2")} - Percentual: {CalcularPercentualFaturamento(faturamentoSP, faturamentoTotal).ToString("F4")}%");
-            Console.WriteLine($"Faturamento RJ - R${faturamentoRJ.ToString("F2")} - Percentual: {CalcularPercentualFaturamento(faturamentoRJ, faturamentoTotal).ToString("F4")}%");
-            Console.WriteLine($"Faturamento MG - R${faturamentoMG.ToString("F2")} - Percentual: {CalcularPercentualFaturamento(faturamentoMG, faturamentoTotal).ToString("F4")}%");
-            Console.WriteLine($"Faturamento ES - R${faturamentoES.ToString("F2")} - Percentual: {CalcularPercentualFaturamento(faturamentoES, faturamentoTotal).ToString("F4")}%");
-            Console.WriteLine($"Faturamento Outros - R${faturamentoOutros.ToString("F2")} - Percentual: {CalcularPercentualFaturamento(faturamentoOutros, faturamentoTotal).ToString("F4")}%");
-        }
-
-        private static double CalcularPercentualFaturamento(double faturamentoCapital, double faturamentoTotal)
-        {
-            return ((faturamentoCapital / faturamentoTotal) * 100);
+            Console.WriteLine($"Faturamento SP - R${faturamentoSP.ToString("F2")} - Percentual: {service.CalcularPercentualFaturamento(faturamentoSP, faturamentoTotal).ToString("F4")}%");
+            Console.WriteLine($"Faturamento RJ - R${faturamentoRJ.ToString("F2")} - Percentual: {service.CalcularPercentualFaturamento(faturamentoRJ, faturamentoTotal).ToString("F4")}%");
+            Console.WriteLine($"Faturamento MG - R${faturamentoMG.ToString("F2")} - Percentual: {service.CalcularPercentualFaturamento(faturamentoMG, faturamentoTotal).ToString("F4")}%");
+            Console.WriteLine($"Faturamento ES - R${faturamentoES.ToString("F2")} - Percentual: {service.CalcularPercentualFaturamento(faturamentoES, faturamentoTotal).ToString("F4")}%");
+            Console.WriteLine($"Faturamento Outros - R${faturamentoOutros.ToString("F2")} - Percentual: {service.CalcularPercentualFaturamento(faturamentoOutros, faturamentoTotal).ToString("F4")}%");
         }
     }
 }

@@ -1,6 +1,8 @@
-﻿namespace Exercicio01
+﻿using Exercicio01.Services;
+
+namespace Exercicio01
 {
-    internal class Program
+    public class Program
     {
         /*
          1) Observe o trecho de código abaixo: 
@@ -11,6 +13,23 @@
                           }
                 Imprimir(SOMA);
             Ao final do processamento, qual será o valor da variável SOMA?
+
+            Resposta: 91
+
+            K / Soma:
+            1 / 1
+            2 / 3
+            3 / 6
+            4 / 10
+            5 / 15
+            6 / 21
+            7 / 28
+            8 / 36
+            9 / 45
+            10 / 55
+            11 / 66
+            12 / 78
+            13 / 91
          */
         static void Main(string[] args)
         {
@@ -18,11 +37,8 @@
             int soma = 0;
             int k = 0;
 
-            while (k < indice)
-            {
-                k ++;
-                soma += k;
-            }
+            SomarService service = new SomarService();
+            soma = service.SomarComIndice(indice, k);
 
             Console.WriteLine(soma);
         }

@@ -1,4 +1,6 @@
-﻿namespace Exercicio05
+﻿using Exercicio05.Services;
+
+namespace Exercicio05
 {
     internal class Program
     {
@@ -14,10 +16,8 @@
             string original = "Hello, Target Sistemas!";
             string invertida = string.Empty;
 
-            for (var i = original.Count(); i > 0 ; i--)
-            {
-                invertida += original[i-1];
-            }
+            ManipularStringService service = new ManipularStringService();
+            invertida = service.InverterTexto(original);
 
             Console.WriteLine($"String original: {original}");
             Console.WriteLine($"String invertida: {invertida}");

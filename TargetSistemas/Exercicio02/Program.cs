@@ -1,4 +1,6 @@
-﻿namespace Exercicio02
+﻿using Exercicio02.Services;
+
+namespace Exercicio02
 {
     internal class Program
     {
@@ -13,41 +15,24 @@
          */
         static void Main(string[] args)
         {
-            List<int> sequenciaFibonacci = new List<int>();
             int numeroInformado = 986;
 
-            CalcularFibonacciAteNumeroInformado(sequenciaFibonacci, numeroInformado);
+            CalcularFibonacciService service = new CalcularFibonacciService(numeroInformado);
+            service.CalcularSequenciaFibonacci();
 
             // Escrevendo a sequência de fibonacci até o número informado
-            foreach (var numeroSequencia in sequenciaFibonacci)
+            foreach (var numeroSequencia in service.SequenciaFibonacci)
             {
                 Console.Write($" {numeroSequencia} ,");
             }
 
             Console.WriteLine();
-
-            // Verificando se existe na lista
-            bool numeroNaSequenciaFibonacci = sequenciaFibonacci.Contains(numeroInformado);
             
             // Respondendo à pergunta
-            if (numeroNaSequenciaFibonacci)
+            if (service.GetSeNumeroPertenceASequencia())
                 Console.WriteLine($"O número {numeroInformado} está na sequência de Fibonacci.");
             else
                 Console.WriteLine($"O número {numeroInformado} não está na sequência de Fibonacci.");
-        }
-
-        private static void CalcularFibonacciAteNumeroInformado(List<int> sequenciaFibonacci, int numeroInformado)
-        {
-            sequenciaFibonacci.Add(0);
-            sequenciaFibonacci.Add(1);
-            sequenciaFibonacci.Add(1);
-
-            while (sequenciaFibonacci.Last() < numeroInformado)
-            {
-                sequenciaFibonacci.Add(
-                    sequenciaFibonacci[sequenciaFibonacci.Count - 1] + sequenciaFibonacci[sequenciaFibonacci.Count - 2]
-                 );
-            }
         }
     }
 }

@@ -3,40 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\marzi\\OneDrive\\Documentos\\Development\\_Git\\TargetSistemas\\TargetSistemas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55C0DD24-1272-4C0E-BA02-0210FF9A2C54}|Exercicio05\\Exercicio05.csproj|c:\\users\\marzi\\onedrive\\documentos\\development\\_git\\targetsistemas\\targetsistemas\\exercicio05\\exercicio05.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{55C0DD24-1272-4C0E-BA02-0210FF9A2C54}|Exercicio05\\Exercicio05.csproj|solutionrelative:exercicio05\\exercicio05.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marzi\\OneDrive\\Documentos\\Development\\_Git\\TargetSistemas\\TargetSistemas_tests\\TargetSistemas_tests\\Test_Exercicio01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E15BA56E-EC3B-4988-8243-9B16D5FD4514}|Exercicio04\\Exercicio04.csproj|c:\\users\\marzi\\onedrive\\documentos\\development\\_git\\targetsistemas\\targetsistemas\\exercicio04\\exercicio04.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E15BA56E-EC3B-4988-8243-9B16D5FD4514}|Exercicio04\\Exercicio04.csproj|solutionrelative:exercicio04\\exercicio04.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6803276B-EB34-453C-9266-95B3F4C64B1D}|Exercicio03\\Exercicio03.csproj|c:\\users\\marzi\\onedrive\\documentos\\development\\_git\\targetsistemas\\targetsistemas\\exercicio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6803276B-EB34-453C-9266-95B3F4C64B1D}|Exercicio03\\Exercicio03.csproj|solutionrelative:exercicio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6803276B-EB34-453C-9266-95B3F4C64B1D}|Exercicio03\\Exercicio03.csproj|c:\\users\\marzi\\onedrive\\documentos\\development\\_git\\targetsistemas\\targetsistemas\\exercicio03\\exercicio03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6803276B-EB34-453C-9266-95B3F4C64B1D}|Exercicio03\\Exercicio03.csproj|solutionrelative:exercicio03\\exercicio03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55C0DD24-1272-4C0E-BA02-0210FF9A2C54}|Exercicio05\\Exercicio05.csproj|c:\\users\\marzi\\onedrive\\documentos\\development\\_git\\targetsistemas\\targetsistemas\\exercicio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55C0DD24-1272-4C0E-BA02-0210FF9A2C54}|Exercicio05\\Exercicio05.csproj|solutionrelative:exercicio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E15BA56E-EC3B-4988-8243-9B16D5FD4514}|Exercicio04\\Exercicio04.csproj|c:\\users\\marzi\\onedrive\\documentos\\development\\_git\\targetsistemas\\targetsistemas\\exercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E15BA56E-EC3B-4988-8243-9B16D5FD4514}|Exercicio04\\Exercicio04.csproj|solutionrelative:exercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F058C07E-52C1-4628-BB47-7874AC723B44}|Exercicio02\\Exercicio02.csproj|c:\\users\\marzi\\onedrive\\documentos\\development\\_git\\targetsistemas\\targetsistemas\\exercicio02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F058C07E-52C1-4628-BB47-7874AC723B44}|Exercicio02\\Exercicio02.csproj|solutionrelative:exercicio02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F058C07E-52C1-4628-BB47-7874AC723B44}|Exercicio02\\Exercicio02.csproj|c:\\users\\marzi\\onedrive\\documentos\\development\\_git\\targetsistemas\\targetsistemas\\exercicio02\\exercicio02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F058C07E-52C1-4628-BB47-7874AC723B44}|Exercicio02\\Exercicio02.csproj|solutionrelative:exercicio02\\exercicio02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{354CB9E4-A128-4C48-AB19-DFA8973D29C2}|Exercicio01\\Exercicio01.csproj|c:\\users\\marzi\\onedrive\\documentos\\development\\_git\\targetsistemas\\targetsistemas\\exercicio01\\exercicio01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{354CB9E4-A128-4C48-AB19-DFA8973D29C2}|Exercicio01\\Exercicio01.csproj|solutionrelative:exercicio01\\exercicio01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{354CB9E4-A128-4C48-AB19-DFA8973D29C2}|Exercicio01\\Exercicio01.csproj|c:\\users\\marzi\\onedrive\\documentos\\development\\_git\\targetsistemas\\targetsistemas\\exercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354CB9E4-A128-4C48-AB19-DFA8973D29C2}|Exercicio01\\Exercicio01.csproj|solutionrelative:exercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,121 +17,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\marzi\\OneDrive\\Documentos\\Development\\_Git\\TargetSistemas\\TargetSistemas\\Exercicio05\\Program.cs",
-              "RelativeDocumentMoniker": "Exercicio05\\Program.cs",
-              "ToolTip": "C:\\Users\\marzi\\OneDrive\\Documentos\\Development\\_Git\\TargetSistemas\\TargetSistemas\\Exercicio05\\Program.cs",
-              "RelativeToolTip": "Exercicio05\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T12:57:54.697Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\marzi\\OneDrive\\Documentos\\Development\\_Git\\TargetSistemas\\TargetSistemas\\Exercicio04\\Program.cs",
-              "RelativeDocumentMoniker": "Exercicio04\\Program.cs",
-              "ToolTip": "C:\\Users\\marzi\\OneDrive\\Documentos\\Development\\_Git\\TargetSistemas\\TargetSistemas\\Exercicio04\\Program.cs",
-              "RelativeToolTip": "Exercicio04\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T12:57:48.066Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Exercicio05.csproj",
-              "DocumentMoniker": "C:\\Users\\marzi\\OneDrive\\Documentos\\Development\\_Git\\TargetSistemas\\TargetSistemas\\Exercicio05\\Exercicio05.csproj",
-              "RelativeDocumentMoniker": "Exercicio05\\Exercicio05.csproj",
-              "ToolTip": "C:\\Users\\marzi\\OneDrive\\Documentos\\Development\\_Git\\TargetSistemas\\TargetSistemas\\Exercicio05\\Exercicio05.csproj",
-              "RelativeToolTip": "Exercicio05\\Exercicio05.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-10T12:57:47.017Z",
-              "EditorCaption": ""
+              "Title": "Test_Exercicio01.cs",
+              "DocumentMoniker": "C:\\Users\\marzi\\OneDrive\\Documentos\\Development\\_Git\\TargetSistemas\\TargetSistemas_tests\\TargetSistemas_tests\\Test_Exercicio01.cs",
+              "RelativeDocumentMoniker": "..\\TargetSistemas_tests\\TargetSistemas_tests\\Test_Exercicio01.cs",
+              "ToolTip": "C:\\Users\\marzi\\OneDrive\\Documentos\\Development\\_Git\\TargetSistemas\\TargetSistemas_tests\\TargetSistemas_tests\\Test_Exercicio01.cs",
+              "RelativeToolTip": "..\\TargetSistemas_tests\\TargetSistemas_tests\\Test_Exercicio01.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:43:45.748Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Exercicio04.csproj",
-              "DocumentMoniker": "C:\\Users\\marzi\\OneDrive\\Documentos\\Development\\_Git\\TargetSistemas\\TargetSistemas\\Exercicio04\\Exercicio04.csproj",
-              "RelativeDocumentMoniker": "Exercicio04\\Exercicio04.csproj",
-              "ToolTip": "C:\\Users\\marzi\\OneDrive\\Documentos\\Development\\_Git\\TargetSistemas\\TargetSistemas\\Exercicio04\\Exercicio04.csproj",
-              "RelativeToolTip": "Exercicio04\\Exercicio04.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-10T12:57:43.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Exercicio03.csproj",
-              "DocumentMoniker": "C:\\Users\\marzi\\OneDrive\\Documentos\\Development\\_Git\\TargetSistemas\\TargetSistemas\\Exercicio03\\Exercicio03.csproj",
-              "RelativeDocumentMoniker": "Exercicio03\\Exercicio03.csproj",
-              "ToolTip": "C:\\Users\\marzi\\OneDrive\\Documentos\\Development\\_Git\\TargetSistemas\\TargetSistemas\\Exercicio03\\Exercicio03.csproj",
-              "RelativeToolTip": "Exercicio03\\Exercicio03.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-10T12:56:37.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\marzi\\OneDrive\\Documentos\\Development\\_Git\\TargetSistemas\\TargetSistemas\\Exercicio02\\Program.cs",
-              "RelativeDocumentMoniker": "Exercicio02\\Program.cs",
-              "ToolTip": "C:\\Users\\marzi\\OneDrive\\Documentos\\Development\\_Git\\TargetSistemas\\TargetSistemas\\Exercicio02\\Program.cs",
-              "RelativeToolTip": "Exercicio02\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCAAAAArAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\marzi\\OneDrive\\Documentos\\Development\\_Git\\TargetSistemas\\TargetSistemas\\Exercicio01\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio01\\Program.cs",
+              "ToolTip": "C:\\Users\\marzi\\OneDrive\\Documentos\\Development\\_Git\\TargetSistemas\\TargetSistemas\\Exercicio01\\Program.cs",
+              "RelativeToolTip": "Exercicio01\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwB8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T12:50:13.184Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Exercicio02.csproj",
-              "DocumentMoniker": "C:\\Users\\marzi\\OneDrive\\Documentos\\Development\\_Git\\TargetSistemas\\TargetSistemas\\Exercicio02\\Exercicio02.csproj",
-              "RelativeDocumentMoniker": "Exercicio02\\Exercicio02.csproj",
-              "ToolTip": "C:\\Users\\marzi\\OneDrive\\Documentos\\Development\\_Git\\TargetSistemas\\TargetSistemas\\Exercicio02\\Exercicio02.csproj",
-              "RelativeToolTip": "Exercicio02\\Exercicio02.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-10T12:50:10.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Exercicio01.csproj",
-              "DocumentMoniker": "C:\\Users\\marzi\\OneDrive\\Documentos\\Development\\_Git\\TargetSistemas\\TargetSistemas\\Exercicio01\\Exercicio01.csproj",
-              "RelativeDocumentMoniker": "Exercicio01\\Exercicio01.csproj",
-              "ToolTip": "C:\\Users\\marzi\\OneDrive\\Documentos\\Development\\_Git\\TargetSistemas\\TargetSistemas\\Exercicio01\\Exercicio01.csproj",
-              "RelativeToolTip": "Exercicio01\\Exercicio01.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-10T12:49:56.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\marzi\\OneDrive\\Documentos\\Development\\_Git\\TargetSistemas\\TargetSistemas\\Exercicio03\\Program.cs",
-              "RelativeDocumentMoniker": "Exercicio03\\Program.cs",
-              "ToolTip": "C:\\Users\\marzi\\OneDrive\\Documentos\\Development\\_Git\\TargetSistemas\\TargetSistemas\\Exercicio03\\Program.cs",
-              "RelativeToolTip": "Exercicio03\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwD4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T12:48:34.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T16:39:48.682Z"
             }
           ]
         }

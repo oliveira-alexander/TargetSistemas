@@ -1,4 +1,5 @@
 ﻿using Exercicio03.Entities;
+using Exercicio03.Services;
 using System.Reflection.Metadata.Ecma335;
 using System.Text.Json;
 
@@ -24,21 +25,18 @@ namespace Exercicio03
             if (File.Exists(caminhoJson))
             {
                 var arquivo = File.ReadAllText(caminhoJson);
-                var json = JsonSerializer.Deserialize<List<FaturamentoDiarioEntity>>(arquivo);
+                var faturamentoDiario = JsonSerializer.Deserialize<List<FaturamentoDiarioEntity>>(arquivo);
+                FaturamentoDiarioService service = new FaturamentoDiarioService();
 
-                var menorValor = json.Where(item => item.valor > 0)
-                                     .OrderBy(item => item.valor)
-                                     .First();
-
-                var maiorValor = json.OrderByDescending(item => item.valor).First();
-
-                var diasValidos = json.Count(dias => dias.valor > 0);
-                var mediaMensal = json.Sum(item => item.valor) / diasValidos;
+                if (faturamentoDiario == null)
+                    throw new Exception("Erro ao ler arquivo!");
 
 
-                var valoresAcimaDaMedia = json.Where(item => item.valor > mediaMensal)
-                                              .OrderBy(item => item.dia);
-
+                var menorValor = service.GetMenorValor(faturamentoDiario);
+                var maiorValor = service.GetMaiorValor(faturamentoDiario);
+                var diasValidos = service.GetDiasValidos(faturamentoDiario);
+                var mediaMensal = service.GetMediaMensal(diasValidos, faturamentoDiario);
+                var valoresAcimaDaMedia = service.GetFaturamentosAcimaDaMedia(mediaMensal, faturamentoDiario);
 
                 Console.WriteLine("Menor Valor:");
                 Console.WriteLine($"Dia {menorValor.dia} - R${menorValor.valor.ToString("F2")}");
