@@ -18,7 +18,7 @@
     <li>Clonar o repositório em uma pasta utilizando o Git, com o comando:
         <p><em><code>git clone https://github.com/oliveira-alexander/TargetSistemas</em></p></code>
     </li>
-    <li>No terminal utilizado, navegar até a pasta onde se encontra o projeto</li>
+    <li>No terminal utilizado, navegar até a pasta onde se encontra a solução <em>(TargetSistemas.sln)</em></li>
     <li>Para realizar os testes unitários diretamente no console:
         <p><em><code>dotnet test</em></p></code>
     </li>
